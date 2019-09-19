@@ -40,4 +40,5 @@ button.number{
     border-radius: 2px;
     font-family: 'ds_digital';
     font-size: 32px;
+    text-align: right;
 }
